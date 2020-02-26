@@ -1,7 +1,7 @@
 # vCard UDL for Notepad++
 
 So, this is my first contribution on GitHub. 
-I was looking for a UDL file for Notepad++ as I was editing vCard/VCF files. 
+I was looking for an UDL file for Notepad++ as I was editing vCard/VCF files. 
 Since I couldn't find one, I just created one myself. 
 
 I included Properties and Keywords from two sources:
