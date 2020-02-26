@@ -13,7 +13,11 @@ This means, that keyword highlighting should work for all official vCards until 
 I created two versions - one for the default theme, and one for a dark theme [(in my case Dracula)](https://github.com/dracula/notepad-plus-plus). 
 For the __dark theme__ I recommend you switch on "Enable global background colour" in "Global override" style (Settings --> Style Configurator)
 
+### Screenshots
+__Using a dark theme in Notepad++__
 ![Screenshot dark UDL](./screenshot_vcard_dark.png)
+
+__Using Notepad++'s default theme.__
 ![Screenshot default UDL](./screenshot_vcard_default.png)
 
 ### Keywords included
